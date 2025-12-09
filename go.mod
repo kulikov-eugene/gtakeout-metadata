@@ -1,3 +1,3 @@
-module github.com/yevhen-kulikov/go-photos-fix
+module github.com/kulikov-eugene/gtakeout-metadata
 
 go 1.21.0
